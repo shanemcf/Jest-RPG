@@ -1,0 +1,19 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "an rpg using oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanemcf/Jest-RPG.git"
+  },
+  "author": "Shane McFadden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanemcf/Jest-RPG/issues"
+  },
+  "homepage": "https://github.com/shanemcf/Jest-RPG#readme"
+}
